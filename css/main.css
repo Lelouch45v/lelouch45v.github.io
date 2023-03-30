@@ -7,6 +7,9 @@
 }
 body{
     font-family: var(--sm-font);
+    padding: 25px;
+    background-color: white;
+    color: black;
 }
 
 /* button */
@@ -251,4 +254,20 @@ html{
 }
 .text center {
     color:red;
+}
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+ 
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+#togle {
+    margin-top: !important;
 }
